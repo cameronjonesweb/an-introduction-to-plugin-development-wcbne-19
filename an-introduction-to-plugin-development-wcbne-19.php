@@ -8,6 +8,10 @@
  * License: GPL v2
  */
 
+if ( ! defined( 'ABSPATH' ) ) {
+	die();
+}
+
 /**
  * Add our custom stylesheet to the login page
  */
